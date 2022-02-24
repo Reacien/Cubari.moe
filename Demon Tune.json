@@ -6,11 +6,27 @@
   "cover": "https://uploads.mangadex.org/covers/67a20962-49fd-4fa4-9057-05b058ccaba0/e5c374bd-dfc1-4dfa-9622-e22ff0cff076.jpg",
   "chapters": {
     "10": {
-      "title": "10",
+      "title": "Ninja Arts",
       "volume": "3",
       "last_updated": "1644145200",
       "groups": {
         "Kabusu Scans": "/proxy/api/mangadex/chapter/ea1dedf5-f18b-47ba-9d88-23fea3bb5263"
+      }
+    },
+    "11": {
+      "title": "Midnight Dinner",
+      "volume": "3",
+      "last_updated": "1644750000",
+      "groups": {
+        "Kabusu Scans": "/proxy/api/mangadex/chapter/d6d5a558-8cec-437e-ae06-d56fc8c48318"
+      }
+    },
+    "12": {
+      "title": "Final Destination",
+      "volume": "3",
+      "last_updated": "1645714380",
+      "groups": {
+        "Kabusu Scans": "/proxy/api/mangadex/chapter/75ef3f48-02f0-43b9-bf5c-96c96b63e272"
       }
     }
   }
