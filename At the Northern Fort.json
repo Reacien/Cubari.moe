@@ -4,5 +4,38 @@
   "artist": "Akaya Tawa",
   "author": "Mikuni Tsukasa",
   "cover": "https://uploads.mangadex.org/covers/c0189f4a-dee6-48f4-abbe-53a4359cbcfb/03ba7e6a-c7ef-4a76-a7f4-0045fe6c6260.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Episode 1",
+      "volume": "1",
+      "last_updated": "1644231600",
+      "groups": {
+        "Kabusu Scans": "/proxy/api/mangadex/chapter/f2cd7463-eecc-4d5f-a03b-b91ede169c58"
+      }
+    },
+    "2": {
+      "title": "Episode 2",
+      "volume": "1",
+      "last_updated": "1644836400",
+      "groups": {
+        "Kabusu Scans": "/proxy/api/mangadex/chapter/4adea7e6-dbff-495e-aa01-9e14ae12c9ba"
+      }
+    },
+    "3": {
+      "title": "Episode 3",
+      "volume": "1",
+      "last_updated": "1645441200",
+      "groups": {
+        "Kabusu Scans": "/proxy/api/mangadex/chapter/506c0080-4d01-4d21-a82c-e08eb11c6979"
+      }
+    },
+    "4": {
+      "title": "Episode 4",
+      "volume": "1",
+      "last_updated": "1646046000",
+      "groups": {
+        "Kabusu Scans": "/proxy/api/imgur/chapter/4dNlXGe"
+      }
+    }
+  }
 }
