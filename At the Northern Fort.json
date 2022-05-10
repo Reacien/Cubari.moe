@@ -84,6 +84,14 @@
       "groups": {
         "Kabusu Scans": "/proxy/api/imgur/chapter/DwuDknI"
       }
+    },
+    "11": {
+      "title": "Episode 11",
+      "volume": "3",
+      "last_updated": "1652183193",
+      "groups": {
+        "Kabusu Scans": "/proxy/api/mangadex/chapter/a1087bfb-7d65-4232-b82d-4424f8526c66"
+      }
     }
   }
 }
