@@ -92,6 +92,14 @@
       "groups": {
         "Kabusu Scans": "/proxy/api/mangadex/chapter/a1087bfb-7d65-4232-b82d-4424f8526c66"
       }
+    },
+    "12": {
+      "title": "Episode 12",
+      "volume": "3",
+      "last_updated": "1652525233",
+      "groups": {
+        "Kabusu Scans": "/proxy/api/imgur/chapter/u4LJiPM"
+      }
     }
   }
 }
