@@ -124,6 +124,14 @@
       "groups": {
         "Kabusu Scans": "/proxy/api/mangadex/chapter/0dd6c9ca-68d2-4fee-9da1-a4a560f945ad"
       }
+    },
+    "16": {
+      "title": "Episode 16",
+      "volume": "4",
+      "last_updated": "1655408917",
+      "groups": {
+        "Kabusu Scans": "/proxy/api/imgur/chapter/DXGOzIN"
+      }
     }
   }
 }
