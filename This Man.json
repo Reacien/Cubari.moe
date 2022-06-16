@@ -18,7 +18,15 @@
       "volume": "4",
       "last_updated": "1653235815",
       "groups": {
-        "Kabusu Scans": "/proxy/api/imgur/chapter/36S4pFX"
+        "Kabusu Scans": "/proxy/api/mangadex/chapter/e75c8901-3f28-4a41-8172-45920dc7e593"
+      }
+    },
+    "33": {
+      "title": "Suggestion",
+      "volume": "4",
+      "last_updated": "1655409470",
+      "groups": {
+        "Kabusu Scans": "/proxy/api/mangadex/chapter/01ead332-db85-465f-a0ae-e2117798515a"
       }
     }
   }
