@@ -39,10 +39,42 @@
     },
     "35": {
       "title": "Imposter",
-      "volume": "4",
+      "volume": "5",
       "last_updated": "1656922464",
       "groups": {
         "Kabusu Scans": "/proxy/api/imgur/chapter/tAI9AJr"
+      }
+    },
+    "36": {
+      "title": "An eye for an eye",
+      "volume": "5",
+      "last_updated": "1658334174",
+      "groups": {
+        "Kabusu Scans": "/proxy/api/imgur/chapter/0OujQxP"
+      }
+    },
+    "37": {
+      "title": "Believe",
+      "volume": "5",
+      "last_updated": "1658334187",
+      "groups": {
+        "Kabusu Scans": "/proxy/api/imgur/chapter/BfK9R6b"
+      }
+    },
+    "38": {
+      "title": "Young Wolf",
+      "volume": "5",
+      "last_updated": "1658334200",
+      "groups": {
+        "Kabusu Scans": "/proxy/api/imgur/chapter/7BIIZz0"
+      }
+    },
+    "39": {
+      "title": "Ladies and gentlemen",
+      "volume": "5",
+      "last_updated": "1658334211",
+      "groups": {
+        "Kabusu Scans": "/proxy/api/imgur/chapter/SKImhWd"
       }
     }
   }
