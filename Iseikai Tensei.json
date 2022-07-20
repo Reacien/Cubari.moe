@@ -7,7 +7,7 @@
   "chapters": {
     "7": {
       "title": "Little Heroes",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1653401295",
       "groups": {
         "Kabusu Scans": "/proxy/api/mangadex/chapter/eb3382d2-a544-4efc-8b00-7b53d312fe79"
@@ -15,7 +15,7 @@
     },
     "8": {
       "title": "Military Facility",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1655409703",
       "groups": {
         "Kabusu Scans": "/proxy/api/mangadex/chapter/c7650b1e-3be5-4c7d-b63f-7db068f1b0cc"
@@ -23,7 +23,7 @@
     },
     "9": {
       "title": "The truth about the heroes",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1656922666",
       "groups": {
         "Kabusu Scans": "/proxy/api/imgur/chapter/jcSGTxp"
@@ -31,10 +31,26 @@
     },
     "10": {
       "title": "Co-operation",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1656922691",
       "groups": {
         "Kabusu Scans": "/proxy/api/imgur/chapter/nxj5xmR"
+      }
+    },
+    "11": {
+      "title": "The day of wrath",
+      "volume": "2",
+      "last_updated": "1658333844",
+      "groups": {
+        "Kabusu Scans": "/proxy/api/imgur/chapter/fGo6WEK"
+      }
+    },
+    "12": {
+      "title": "Anna",
+      "volume": "2",
+      "last_updated": "1658333861",
+      "groups": {
+        "Kabusu Scans": "/proxy/api/imgur/chapter/2GgnVoW"
       }
     }
   }
